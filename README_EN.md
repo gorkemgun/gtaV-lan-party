@@ -1,3 +1,5 @@
+[Türkçe](README.md) | [English](README_EN.md)
+
 # Problem
 
 Most Twitch streamers and GTA:V Online players are constantly kicked out by hackers or hackers who constantly attack their lobbies and reduce the enjoyment of broadcasting and gaming to zero.
