@@ -25,7 +25,7 @@ Aslında bütün bu anlattıklarımı görev yöneticisinde kaynak izleyicisini 
 
 ## Hilelerin oyunumuza girmesini nasıl engelleriz?
 
-Peer-to-Peer destekleyen oyunlarda (bunu LAN üzerinden oyun oynamya da benzetebilirsiniz, sadece daha geniş bir ağ içerisindesiniz) eğer istekler bir sunucu tarafından filtrelenmiyorsa ve karar merkezi X bir kullanıcı ise VPN kullanarak bu durumu aşabiliriz.
+Peer-to-Peer destekleyen oyunlarda (bunu LAN üzerinden oyun oynamaya da benzetebilirsiniz, sadece daha geniş bir ağ içerisindesiniz) eğer istekler bir sunucu tarafından filtrelenmiyorsa ve karar merkezi X bir kullanıcı ise VPN kullanarak bu durumu aşabiliriz.
 
 VPN'i burada arkadaşlarımızla kendimiz arasında özel bir ağ kurmak için kullanıyoruz (Hamachi gibi düşünebilirsiniz). 
 
