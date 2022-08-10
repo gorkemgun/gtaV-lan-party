@@ -1,4 +1,4 @@
-[Türkçe](README.md) [English](README_EN.md)
+[Türkçe](README.md) | [English](README_EN.md)
 
 # Problem
 Çoğu Twitch yayıncısı ve GTA:V Online oyuncularının hackerlar tarafından sürekli oyundan atılmaları veya sürekli lobilerine saldırıp yayın ve oyun zevkini sıfıra indiren hackerler.
